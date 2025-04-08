@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dy1plsfpm-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/dy1plsfpm-go-gitops
